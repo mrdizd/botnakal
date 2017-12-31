@@ -25,7 +25,7 @@ if($message['type']=='sticker')
 							'messages' => array(
 								array(
 										'type' => 'text',									
-										'text' => 'Terima Kasih Stikernya.'										
+										'text' => 'Janganmko Kasih keluar stiker gorra'										
 									
 									)
 							)
@@ -66,7 +66,7 @@ if($url['result'] != 100)
 							'messages' => array(
 								array(
 										'type' => 'text',					
-										'text' => 'Maaf '.$profil->displayName.' Server Kami Sedang Sibuk Sekarang.'
+										'text' => 'Maaf, '.$profil->displayName'untuk penggunaan lebih lama hubungi id line:aloneup'
 									)
 							)
 						);
